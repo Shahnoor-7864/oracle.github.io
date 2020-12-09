@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Slab', serif;
+}
+
+.main h1{
+  font-size : 47px;
+}
+.box{
+    height: 123vh;
+    
+    border: 30px solid white;
+ 
+}
+.pic img {
+    height: 92vh;
+  
+}
+
+.text{
+    background-color: white;
+}
+.text h6 {
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+.text h1 {
+    font-weight: bold;
+    font-size: 53px;
+}
+
+
+.text h4 {
+    font-weight: lighter;
+    font-size: 25px;
+}
+.another{
+    height: 250px;
+    width: 1000px;
+    background-color: white;
+}
+.line{
+    margin: 15px auto 3px;
+    max-width: 250px;
+    border-color: #999999;
+    border-width: 2px;
+}
+
+
+.lines{
+    margin: 15px auto 3px;
+    max-width: 350px;
+    border-color: #999999;
+    border-width: 2px;
+}
+.another h5{
+    color: #858282;
+    font-size: 24px;
+}
+.another h2{
+    font-size: 29px;
+    font-weight: bold;
+}
+footer{
+    height: 60px;
+    background-color: white;
+   
+}
+footer{
+    font-size: 14px;
+}
